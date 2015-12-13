@@ -1,0 +1,14 @@
+layout_spectrum: 0.2013246
+color:
+  saturation: 0.6290323
+  brandStrength: 0.4856631
+  lightness: 0.6415771
+  brandColors:
+    - '#060B0D'
+    - '#5A8688'
+    - '#FB8888'
+    - '#A33938'
+    - '#FFFAAB'
+  rhythmicContrast: 0.3405018
+typography_spectrum: 0.1787106
+name: TheGoodLife
